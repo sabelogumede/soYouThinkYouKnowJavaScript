@@ -1,4 +1,4 @@
-# soYouThinkYouKnowJavaScript
+# So You Think You Know JavaScript?
 
 - Section 1: Scopes, Callbacks and Closures
 
